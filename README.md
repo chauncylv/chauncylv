@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chauncylv
+- 👋 Hi, I’m @lvchengnan
 - 👀 I’m interested in novels.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chauncylv@qq.com
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on studying
+- 📫 How to reach me 1539274649@qq.com
 
 <!---
 chauncylv/chauncylv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
